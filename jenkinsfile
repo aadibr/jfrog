@@ -56,7 +56,7 @@ pipeline {
                         "files": [
                             {
                                 "pattern": "build/output/*.war",
-                                "target": "http://184.72.143.242:8081/artifactory/maven-snapshots/"
+                                "target": "http://184.72.143.242:8082/artifactory/"
                             }
                         ]
                     }"""
